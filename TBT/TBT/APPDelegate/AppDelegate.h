@@ -1,0 +1,15 @@
+//
+//  AppDelegate.h
+//  TBT
+//
+//  Created by 刘冉 on 2022/6/7.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (nonatomic,strong) UIWindow *window;
+
+@end
+
